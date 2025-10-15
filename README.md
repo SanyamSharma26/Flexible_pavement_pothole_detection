@@ -90,7 +90,7 @@ Format: Timestamp | Area(cm²) | Width×Height(cm) | Depth(cm) | Severity | Conf
 
  👤 Author
 
-**Manmeet Singh**
+**Sanyam Sharma**
 🧠 AI/ML & Vision Enthusiast
 🎓 Research Intern – Structural Health Monitoring (2025)
 
@@ -102,4 +102,5 @@ This project is available under the [MIT License](LICENSE).
 
 
 > 🚧 *Built for real roads. Made to scale.*
+
 
